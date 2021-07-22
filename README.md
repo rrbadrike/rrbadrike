@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rrbadrike passionate web devloper.
+- 👋 Hi, I’m @rrbadrike Rahul Badrike passionate web devloper.
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning new things like AI
 - 💞️ I’m looking to collaborate on ...
